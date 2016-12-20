@@ -177,7 +177,7 @@
       display:none;
     }
     .home-wrapper img {
-      display:block;
+      background-image:contain;
     }
     .home-wrapper-text h1 {
       color: white;
