@@ -20,7 +20,7 @@
   overflow: auto;
   right: 0;
   top: 0;
-  display:block;
+  background-image:cover;
 }
 
 .home-wrapper-text h1 {
