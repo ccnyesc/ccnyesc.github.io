@@ -14,12 +14,8 @@
 
 .home-wrapper img {
   max-width: 100%;
-  bottom: 0;
-  left: 0;
   margin: auto;
   overflow: auto;
-  right: 0;
-  top: 0;
   background-size:contain;
 }
 
