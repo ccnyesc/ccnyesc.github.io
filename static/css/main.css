@@ -21,6 +21,7 @@
   right: 0;
   top: 0;
   background-image:cover;
+  position: relative;
 }
 
 .home-wrapper-text h1 {
