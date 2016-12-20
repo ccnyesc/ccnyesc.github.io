@@ -6433,7 +6433,7 @@ input.mdl-button[type="submit"] {
   margin: 0;
   padding: 0;
   border: none;
-  min-height: 64px;
+  min-height: 84px;
   max-height: 1000px;
   z-index: 3;
   background-color: rgb(84, 161, 255);
