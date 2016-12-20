@@ -177,8 +177,8 @@
       display:none;
     }
     .home-wrapper img {
-    display:block;
-      
+      left: 50%;
+      margin-left: -512px;      
     }
     .home-wrapper-text h1 {
       color: white;
