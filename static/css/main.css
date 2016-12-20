@@ -18,9 +18,9 @@
   left: 0;
   margin: auto;
   overflow: auto;
-  position: center;
   right: 0;
   top: 0;
+  display:block;
 }
 
 .home-wrapper-text h1 {
@@ -177,7 +177,7 @@
       display:none;
     }
     .home-wrapper img {
-      position:center;
+    display:block;
       
     }
     .home-wrapper-text h1 {
