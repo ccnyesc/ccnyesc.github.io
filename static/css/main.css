@@ -20,7 +20,7 @@
   overflow: auto;
   right: 0;
   top: 0;
-  background-image:contain;
+  background-size:contain;
 }
 
 .home-wrapper-text h1 {
@@ -177,7 +177,7 @@
       display:none;
     }
     .home-wrapper img {
-      background-image:contain;
+      background-size:contain;
     }
     .home-wrapper-text h1 {
       color: white;
