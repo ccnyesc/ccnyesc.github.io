@@ -14,13 +14,9 @@
 
 .home-wrapper img {
   max-width: 100%;
-  bottom: 0;
-  left: 0;
   margin: auto;
   overflow: auto;
-  position: fixed;
-  right: 0;
-  top: 0;
+  background-size:contain;
 }
 
 .home-wrapper-text h1 {
@@ -33,6 +29,7 @@
     position: absolute;
     left: 15%;
     bottom: 15%;
+    
 }
 
 .home-second-button {
@@ -177,8 +174,7 @@
       display:none;
     }
     .home-wrapper img {
-      left: 50%;
-      margin-left: -512px;
+      background-size:contain;
     }
     .home-wrapper-text h1 {
       color: white;
